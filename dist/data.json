@@ -1,0 +1,57 @@
+{
+    "menus": [
+    {
+        "id": "菜單",
+        "title":
+        {
+            "en": "菜單"
+        }
+    }],
+    "items": [
+    {
+        "id": "1004",
+        "title":
+        {
+            "translations":
+            {
+                "en": "抄手麵"
+            }
+        },
+        "price_info":
+        {
+            "price": 17900,
+            "overrides": []
+        }
+    },
+    {
+        "id": "1010",
+        "title":
+        {
+            "translations":
+            {
+                "en": "麻醬麵"
+            }
+        },
+        "image_url": "",
+        "price_info":
+        {
+            "price": 16400,
+            "overrides": []
+        }
+    },
+    {
+        "id": "1007",
+        "title":
+        {
+            "translations":
+            {
+                "en": "酸辣魚麵"
+            }
+        },
+        "price_info":
+        {
+            "price": 21400,
+            "overrides": []
+        }
+    }]
+}
